@@ -18,14 +18,14 @@
     "href": "resources/resources.html#a2.-journals",
     "title": "Resources",
     "section": "A2. Journals",
-    "text": "A2. Journals"
+    "text": "A2. Journals\n\nA2.a. Chemical Education and Chemical Education Research\n\nJournal of Chemical Education. American Chemical Society.\nChemistry Education Research and Practice. Royal Society of Chemistry.\n\n\n\nA2.b. STEM and Discipline-Based Education Research\n\nJournal of Research in Science Teaching. National Association of Research in Science Teaching (NARST)."
   },
   {
     "objectID": "resources/resources.html#a3.-acronyms",
     "href": "resources/resources.html#a3.-acronyms",
     "title": "Resources",
     "section": "A3. Acronyms",
-    "text": "A3. Acronyms"
+    "text": "A3. Acronyms\nClick here for a list of common acronyms used in discipline-based education research (DBER)."
   },
   {
     "objectID": "resources/resources.html#a4.-conferences",
@@ -46,7 +46,7 @@
     "href": "resources/resources.html#a6.-professional-organizations",
     "title": "Resources",
     "section": "A6. Professional Organizations",
-    "text": "A6. Professional Organizations"
+    "text": "A6. Professional Organizations\n\nAmerican Chemical Society\nAmerican Association of Chemistry Teachers\nNational Association of Research in Science Teaching\nAmerican Educational Reserach Association"
   },
   {
     "objectID": "resources/resources.html",
@@ -60,6 +60,20 @@
     "href": "resources/resources.html#a1.-books",
     "title": "Resources",
     "section": "A1. Books",
-    "text": "A1. Books\n\nBunce, D. M., & Cole, R. S. (Eds.). (2008). Nuts and Bolts of Chemical Education Research. American Chemical Society.\nBunce, D. M., & Cole, R. C. (Eds.). (2014). Tools of Chemistry Education Research. American Chemical Society."
+    "text": "A1. Books\n\nA1.a. Chemical Education Research Methods\n\nBunce, D. M., & Cole, R. S. (Eds.). (2008). Nuts and Bolts of Chemical Education Research. American Chemical Society.\nBunce, D. M., & Cole, R. C. (Eds.). (2014). Tools of Chemistry Education Research. American Chemical Society.\n\n\n\nA1.b. Organic Chemistry Education\n\nGraulich, N., & Shultz, G. (Eds.). (2023). Student reasoning in organic chemistry: Research advances and evidence-based instructional practices. Royal Society of Chemistry."
+  },
+  {
+    "objectID": "resources/acronyms/acronyms.html",
+    "href": "resources/acronyms/acronyms.html",
+    "title": "Acronyms",
+    "section": "",
+    "text": "Home > Resources > Acronyms\n\nA\n\n\nB\n\n\nC\n\nCER - chemical education research\n\n\n\nD\n\nDBER - discipline-based education research\n\n\n\nE\n\n\nF\n\n\nG\n\n\nH\n\n\nI\n\n\nJ\n\n\nK\n\n\nL\n\n\nM\n\n\nN\n\n\nO\n\n\nP\n\n\nQ\n\n\nR\n\n\nS\n\n\nT\n\n\nU\n\n\nV\n\n\nW\n\n\nX\n\n\nY\n\n\nZ\n\n\n\n\n\nCopyright 2023, Jeffrey R. Raker.\n\nContent is available under CC BY-NC-SA 4.0 license unless otherwise noted."
+  },
+  {
+    "objectID": "resources/acronyms/acronyms.html#acronyms",
+    "href": "resources/acronyms/acronyms.html#acronyms",
+    "title": "Acronyms",
+    "section": "Acronyms",
+    "text": "Acronyms\n\nA\n\n\nB\n\n\nC\n\nCER - chemical education research\n\n\n\nD\n\nDBER - discipline-based education research\n\n\n\nE\n\n\nF\n\n\nG\n\n\nH\n\n\nI\n\n\nJ\n\n\nK\n\n\nL\n\n\nM\n\n\nN\n\n\nO\n\n\nP\n\n\nQ\n\n\nR\n\n\nS\n\n\nT\n\n\nU\n\n\nV\n\n\nW\n\n\nX\n\n\nY\n\n\nZ"
   }
 ]

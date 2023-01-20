@@ -1,0 +1,41 @@
+---
+title: "Acronyms"
+engine: knitr
+format:
+  html: 
+    toc: true
+    toc-depth: 10
+---
+
+[Home](../index.qmd) > [Resources](/resources/resources.qmd) > [Acronyms](/resources/acronyms/acronyms.qmd)
+
+### A
+### B
+### C
+- CER - chemical education research
+
+### D
+- DBER - discipline-based education research
+
+### E
+### F
+### G
+### H
+### I
+### J
+### K
+### L
+### M
+### N
+### O
+### P
+### Q
+### R
+### S
+### T
+### U
+### V
+### W
+### X
+### Y
+### Z

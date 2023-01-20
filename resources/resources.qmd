@@ -11,16 +11,34 @@ format:
 
 ## A1. Books
 
-- <b>Bunce, D. M., & Cole, R. S. (Eds.). (2008). [Nuts and Bolts of Chemical Education Research](https://doi.org/10.1021/bk-2008-0976). American Chemical Society.</b>
+### A1.a. Chemical Education Research Methods
+- Bunce, D. M., & Cole, R. S. (Eds.). (2008). [Nuts and Bolts of Chemical Education Research](https://doi.org/10.1021/bk-2008-0976). American Chemical Society.
 
-- <b>Bunce, D. M., & Cole, R. C. (Eds.). (2014). [Tools of Chemistry Education Research](https://doi.org/10.1021/bk-2014-1166). American Chemical Society.</b>
+- Bunce, D. M., & Cole, R. C. (Eds.). (2014). [Tools of Chemistry Education Research](https://doi.org/10.1021/bk-2014-1166). American Chemical Society.
+
+### A1.b. Organic Chemistry Education
+- Graulich, N., & Shultz, G. (Eds.). (2023). [Student reasoning in organic chemistry: Research advances and evidence-based instructional practices](https://pubs.rsc.org/en/content/ebook/978-1-83916-491-0). Royal Society of Chemistry.
 
 ## A2. Journals
 
-## A3. Acronyms
+### A2.a. Chemical Education and Chemical Education Research
+- [Journal of Chemical Education](https://pubs.acs.org/journal/jceda8). American Chemical Society.
+
+- [Chemistry Education Research and Practice](https://www.rsc.org/journals-books-databases/about-journals/chemistry-education-research-practice). Royal Society of Chemistry.
+
+### A2.b. STEM and Discipline-Based Education Research
+- [Journal of Research in Science Teaching](https://onlinelibrary.wiley.com/journal/10982736). National Association of Research in Science Teaching (NARST).
+
+## A3. [Acronyms](/resources/acronyms/acronyms.qmd)
+Click [here](/resources/acronyms/acronyms.qmd) for a list of common acronyms used in discipline-based education research (DBER).
 
 ## A4. Conferences
 
 ## A5. Graduate Programs
 
 ## A6. Professional Organizations
+
+- [American Chemical Society](https://teachchemistry.org)
+- [American Association of Chemistry Teachers](https://teachchemistry.org)
+- [National Association of Research in Science Teaching](https://narst.org)
+- [American Educational Reserach Association](https://www.aera.net)
