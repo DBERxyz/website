@@ -1,8 +1,10 @@
 ---
 title: ""
-about:
-  template: solana
 engine: knitr
+format: 
+  html: 
+    toc: true
+    toc-depth: 6
 ---
 
 ![](/assets/logo_650_x_650.png){width=200 fig-align="center"}
@@ -15,9 +17,6 @@ While the URL may suggest a broad focus (i.e., all discipline-based education re
 
 ## Map of Content
 
-::: {.grid}
-
-::: {.g-col-6}
 ### A. [Resources](/resources/resources.qmd)
 
 #### A1. [Books](/resources/resources.qmd#a1.-books)
@@ -66,10 +65,6 @@ While the URL may suggest a broad focus (i.e., all discipline-based education re
 
 </br>
 
-:::
-
-
-::: {.g-col-6}
 ### D. Scholarly Activities
 
 #### D1. Institutional Review Boards
@@ -99,7 +94,3 @@ While the URL may suggest a broad focus (i.e., all discipline-based education re
 #### E4. Notebook or Journal or Diary
 
 </br>
-
-:::
-
-:::

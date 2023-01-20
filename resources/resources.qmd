@@ -1,13 +1,19 @@
 ---
 title: "Resources"
-about:
-  template: solana
 engine: knitr
+format:
+  html: 
+    toc: true
+    toc-depth: 10
 ---
 
 [Home](../index.qmd) > [Resources](/resources/resources.qmd)
 
 ## A1. Books
+
+- <b>Bunce, D. M., & Cole, R. S. (Eds.). (2008). [Nuts and Bolts of Chemical Education Research](https://doi.org/10.1021/bk-2008-0976). American Chemical Society.</b>
+
+- <b>Bunce, D. M., & Cole, R. C. (Eds.). (2014). [Tools of Chemistry Education Research](https://doi.org/10.1021/bk-2014-1166). American Chemical Society.</b>
 
 ## A2. Journals
 

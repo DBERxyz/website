@@ -32,6 +32,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -61,7 +62,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -91,49 +92,71 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#a1.-books" id="toc-a1.-books" class="nav-link active" data-scroll-target="#a1.-books">A1. Books</a></li>
+  <li><a href="#a2.-journals" id="toc-a2.-journals" class="nav-link" data-scroll-target="#a2.-journals">A2. Journals</a></li>
+  <li><a href="#a3.-acronyms" id="toc-a3.-acronyms" class="nav-link" data-scroll-target="#a3.-acronyms">A3. Acronyms</a></li>
+  <li><a href="#a4.-conferences" id="toc-a4.-conferences" class="nav-link" data-scroll-target="#a4.-conferences">A4. Conferences</a></li>
+  <li><a href="#a5.-graduate-programs" id="toc-a5.-graduate-programs" class="nav-link" data-scroll-target="#a5.-graduate-programs">A5. Graduate Programs</a></li>
+  <li><a href="#a6.-professional-organizations" id="toc-a6.-professional-organizations" class="nav-link" data-scroll-target="#a6.-professional-organizations">A6. Professional Organizations</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-solana column-body">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Resources</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header> 
-      <div class="about-contents"><main class="content" id="quarto-document-content">
+  
+
+</header>
+
 <p><a href="../index.html">Home</a> &gt; <a href="../resources/resources.html">Resources</a></p>
 <section id="a1.-books" class="level2">
-<h2 data-anchor-id="a1.-books">A1. Books</h2>
+<h2 class="anchored" data-anchor-id="a1.-books">A1. Books</h2>
+<ul>
+<li><p><b>Bunce, D. M., &amp; Cole, R. S. (Eds.). (2008). <a href="https://doi.org/10.1021/bk-2008-0976">Nuts and Bolts of Chemical Education Research</a>. American Chemical Society.</b></p></li>
+<li><p><b>Bunce, D. M., &amp; Cole, R. C. (Eds.). (2014). <a href="https://doi.org/10.1021/bk-2014-1166">Tools of Chemistry Education Research</a>. American Chemical Society.</b></p></li>
+</ul>
 </section>
 <section id="a2.-journals" class="level2">
-<h2 data-anchor-id="a2.-journals">A2. Journals</h2>
+<h2 class="anchored" data-anchor-id="a2.-journals">A2. Journals</h2>
 </section>
 <section id="a3.-acronyms" class="level2">
-<h2 data-anchor-id="a3.-acronyms">A3. Acronyms</h2>
+<h2 class="anchored" data-anchor-id="a3.-acronyms">A3. Acronyms</h2>
 </section>
 <section id="a4.-conferences" class="level2">
-<h2 data-anchor-id="a4.-conferences">A4. Conferences</h2>
+<h2 class="anchored" data-anchor-id="a4.-conferences">A4. Conferences</h2>
 </section>
 <section id="a5.-graduate-programs" class="level2">
-<h2 data-anchor-id="a5.-graduate-programs">A5. Graduate Programs</h2>
+<h2 class="anchored" data-anchor-id="a5.-graduate-programs">A5. Graduate Programs</h2>
 </section>
 <section id="a6.-professional-organizations" class="level2">
-<h2 data-anchor-id="a6.-professional-organizations">A6. Professional Organizations</h2>
+<h2 class="anchored" data-anchor-id="a6.-professional-organizations">A6. Professional Organizations</h2>
 
 
 </section>
+
 <br><center>
 Copyright 2023, Jeffrey R. Raker.
 </center><center>
 Content is available under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> license unless otherwise noted.
-</center></main></div>
-    </div>
-  </div>
-</div>
- <!-- /main -->
+</center></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -154,6 +177,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
