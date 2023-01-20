@@ -1,1 +1,21 @@
 /* css styles */
+
+/* unvisited link */
+a:link {
+    color: #389cdc;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #389cdc;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #389cdc;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #389cdc;
+  }
