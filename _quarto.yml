@@ -12,6 +12,10 @@ website:
     right:
       - text: Home
         href: index.qmd
+  body-footer: |
+    </br></br>
+    Copyright 2023, Jeffrey R. Raker. </br>
+    Content is available under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license unless otherwise noted.
 
 format:
   html:

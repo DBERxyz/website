@@ -4,7 +4,7 @@ about:
   template: solana
 ---
 
-This is a (_personal_ ) knowledge management project by [Jeff Raker](https://www.jeffraker.xyz).
+This is a (*personal* ) knowledge management project by [Jeff Raker](https://www.jeffraker.xyz).
 
 The goal is to curate resources, information, experiences for moving from as educator to an educational researcher. Whether new to education research, a seasoned researcher, or research trainee mentor, the content of [DBER.xyz](https://www.dber.xyz) includes something for you.
 
@@ -12,38 +12,78 @@ While the URL may suggest a broad focus (i.e., all discipline-based education re
 
 ## Map of Content
 
-### Resources
-#### Books
-#### Journals
-#### Acronyms
-#### Conferences
-#### Graduate Programs
-#### Professional Organizations
+### A. Resources
 
-### Topics
-#### Curriculum
-##### Lecture
-##### Laboratory
-#### Assessment
-#### Pedagogy
+#### A1. Books
 
-### Careers
-#### Academia
-##### Faculty - Teaching
-##### Faculty - Research
-##### Faculty - Administration
-#### Teaching and Learning Centers
-#### Assessment
-#### Consulting
+#### A2. Journals
 
-### Scholarly Activities
-#### Institutional Review Boards
-#### Data Collection
-#### Data Analysis
-#### Reference Management
+#### A3. Acronyms
 
-### Professional Practice
-#### Knowledge Management
-#### Writing
-#### Creation
-#### Notebook or Journal or Diary
+#### A4. Conferences
+
+#### A5. Graduate Programs
+
+#### A6. Professional Organizations
+
+</br>
+
+### B. Learning and Teaching
+
+#### B1. Curriculum
+
+##### B1.a. Lecture
+
+##### B1.b. Laboratory
+
+#### B2. Assessment
+
+#### B3. Pedagogy
+
+</br>
+
+### C. Careers
+
+#### C1. Academia
+
+##### C1.a. Faculty - Teaching
+
+##### C1.b. Faculty - Research
+
+##### C1.c. Faculty - Administration
+
+#### C2. Teaching and Learning Centers
+
+#### C3. Evaluation and Assessment
+
+#### C4. Consulting
+
+</br>
+
+### D. Scholarly Activities
+
+#### D1. Institutional Review Boards
+
+#### D2. Data Collection
+
+#### D3. Data Analysis
+
+#### D4. Reference Management
+
+#### D5. Research Proposals
+
+##### D5.a. Dissertation
+
+##### D5.b. Grant
+
+</br>
+
+### E. Professional Practice
+
+#### E1. Knowledge Management
+
+#### E2. Writing
+
+#### E3. Creation
+
+#### E4. Notebook or Journal or Diary
