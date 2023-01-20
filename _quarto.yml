@@ -9,6 +9,7 @@ website:
   navbar:
     background: "#000000"
     pinned: TRUE
+    favicon: /assets/logo_150_x_150.png
     right:
       - text: Home
         href: index.qmd
