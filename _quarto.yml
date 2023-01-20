@@ -1,19 +1,22 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "website"
+  title: "DBER.xyz"
+  site-url: https://www.dber.xyz
+  description: "DBER.xyz"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    background: "#000000"
+    pinned: TRUE
+    right:
+      - text: Home
+        href: index.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
-    toc: true
 
 editor: visual
 

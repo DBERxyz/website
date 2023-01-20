@@ -1,11 +1,49 @@
 ---
-title: "website"
+title: ""
+about:
+  template: solana
 ---
 
-This is a Quarto website.
+This is a (_personal_ ) knowledge management project by [Jeff Raker](https://www.jeffraker.xyz).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The goal is to curate resources, information, experiences for moving from as educator to an educational researcher. Whether new to education research, a seasoned researcher, or research trainee mentor, the content of [DBER.xyz](https://www.dber.xyz) includes something for you.
 
-```{r}
-1 + 1
-```
+While the URL may suggest a broad focus (i.e., all discipline-based education research), at the moment, the website is developed by a chemical education scholar and thus is primarily focused on chemical education scholarship.
+
+## Map of Content
+
+### Resources
+#### Books
+#### Journals
+#### Acronyms
+#### Conferences
+#### Graduate Programs
+#### Professional Organizations
+
+### Topics
+#### Curriculum
+##### Lecture
+##### Laboratory
+#### Assessment
+#### Pedagogy
+
+### Careers
+#### Academia
+##### Faculty - Teaching
+##### Faculty - Research
+##### Faculty - Administration
+#### Teaching and Learning Centers
+#### Assessment
+#### Consulting
+
+### Scholarly Activities
+#### Institutional Review Boards
+#### Data Collection
+#### Data Analysis
+#### Reference Management
+
+### Professional Practice
+#### Knowledge Management
+#### Writing
+#### Creation
+#### Notebook or Journal or Diary
