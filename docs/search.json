@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "DBER.xyz",
     "section": "",
-    "text": "This is a (personal ) knowledge management project by Jeff Raker.\nThe goal is to curate resources, information, experiences for moving from as educator to an educational researcher. Whether new to education research, a seasoned researcher, or research trainee mentor, the content of DBER.xyz includes something for you.\nWhile the URL may suggest a broad focus (i.e., all discipline-based education research), at the moment, the website is developed by a chemical education scholar and thus is primarily focused on chemical education scholarship."
+    "text": "This is a (personal) knowledge management project by Jeff Raker.\nThe goal is to curate resources, information, experiences for moving from as educator to an educational researcher. Whether new to education research, a seasoned researcher, or research trainee mentor, the content of DBER.xyz includes something for you.\nWhile the URL may suggest a broad focus (i.e., all discipline-based education research), at the moment, the website is developed by a chemical education scholar and thus is primarily focused on chemical education scholarship."
   },
   {
     "objectID": "index.html#map-of-content",
@@ -12,5 +12,54 @@
     "title": "DBER.xyz",
     "section": "Map of Content",
     "text": "Map of Content\n\n\n\nA. Resources\n\nA1. Books\n\n\nA2. Journals\n\n\nA3. Acronyms\n\n\nA4. Conferences\n\n\nA5. Graduate Programs\n\n\nA6. Professional Organizations\n\n\n\n\nB. Learning and Teaching\n\nB1. Curriculum\n\nB1.a. Lecture\n\n\nB1.b. Laboratory\n\n\n\nB2. Assessment\n\n\nB3. Pedagogy\n\n\n\n\nC. Careers\n\nC1. Academia\n\nC1.a. Faculty - Teaching\n\n\nC1.b. Faculty - Research\n\n\nC1.c. Faculty - Administration\n\n\n\nC2. Teaching and Learning Centers\n\n\nC3. Evaluation and Assessment\n\n\nC4. Consulting\n\n\n\n\n\n\nD. Scholarly Activities\n\nD1. Institutional Review Boards\n\n\nD2. Data Collection\n\n\nD3. Data Analysis\n\n\nD4. Reference Management\n\n\nD5. Research Proposals\n\nD5.a. Dissertation\n\n\nD5.b. Grant\n\n\n\n\n\nE. Professional Practice\n\nE1. Knowledge Management\n\n\nE2. Writing\n\n\nE3. Creation\n\n\nE4. Notebook or Journal or Diary"
+  },
+  {
+    "objectID": "resources/resources.html#a2.-journals",
+    "href": "resources/resources.html#a2.-journals",
+    "title": "Resources",
+    "section": "A2. Journals",
+    "text": "A2. Journals"
+  },
+  {
+    "objectID": "resources/resources.html#a3.-acronyms",
+    "href": "resources/resources.html#a3.-acronyms",
+    "title": "Resources",
+    "section": "A3. Acronyms",
+    "text": "A3. Acronyms"
+  },
+  {
+    "objectID": "resources/resources.html#a4.-conferences",
+    "href": "resources/resources.html#a4.-conferences",
+    "title": "Resources",
+    "section": "A4. Conferences",
+    "text": "A4. Conferences"
+  },
+  {
+    "objectID": "resources/resources.html#a5.-graduate-programs",
+    "href": "resources/resources.html#a5.-graduate-programs",
+    "title": "Resources",
+    "section": "A5. Graduate Programs",
+    "text": "A5. Graduate Programs"
+  },
+  {
+    "objectID": "resources/resources.html#a6.-professional-organizations",
+    "href": "resources/resources.html#a6.-professional-organizations",
+    "title": "Resources",
+    "section": "A6. Professional Organizations",
+    "text": "A6. Professional Organizations"
+  },
+  {
+    "objectID": "resources/resources.html",
+    "href": "resources/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Home > Resources"
+  },
+  {
+    "objectID": "resources/resources.html#a1.-books",
+    "href": "resources/resources.html#a1.-books",
+    "title": "Resources",
+    "section": "A1. Books",
+    "text": "A1. Books"
   }
 ]

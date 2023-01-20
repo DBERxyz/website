@@ -7,7 +7,7 @@ engine: knitr
 
 ![](/assets/logo_650_x_650.png){width=200 fig-align="center"}
 
-This is a (*personal* ) knowledge management project by [Jeff Raker](https://www.jeffraker.xyz).
+This is a (_personal_) knowledge management project by [Jeff Raker](https://www.jeffraker.xyz).
 
 The goal is to curate resources, information, experiences for moving from as educator to an educational researcher. Whether new to education research, a seasoned researcher, or research trainee mentor, the content of [DBER.xyz](https://www.dber.xyz) includes something for you.
 
@@ -18,19 +18,19 @@ While the URL may suggest a broad focus (i.e., all discipline-based education re
 ::: {.grid}
 
 ::: {.g-col-6}
-### A. Resources
+### A. [Resources](/resources/resources.qmd)
 
-#### A1. Books
+#### A1. [Books](/resources/resources.qmd#a1.-books)
 
-#### A2. Journals
+#### A2. [Journals](/resources/resources.qmd#a2.-journals)
 
-#### A3. Acronyms
+#### A3. [Acronyms](/resources/resources.qmd#a3.-acronyms)
 
-#### A4. Conferences
+#### A4. [Conferences](/resources/resources.qmd#a4.-conferences)
 
-#### A5. Graduate Programs
+#### A5. [Graduate Programs](/resources/resources.qmd#a5.-graduate-programs)
 
-#### A6. Professional Organizations
+#### A6. [Professional Organizations](/resources/resources.qmd#a6.-professional-organizations)
 
 </br>
 

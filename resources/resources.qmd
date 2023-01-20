@@ -1,0 +1,20 @@
+---
+title: "Resources"
+about:
+  template: solana
+engine: knitr
+---
+
+[Home](../index.qmd) > [Resources](/resources/resources.qmd)
+
+## A1. Books
+
+## A2. Journals
+
+## A3. Acronyms
+
+## A4. Conferences
+
+## A5. Graduate Programs
+
+## A6. Professional Organizations
