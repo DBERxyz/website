@@ -23,21 +23,44 @@ format:
 
 ### A2.a. Chemical Education and Chemical Education Research
 - [Journal of Chemical Education](https://pubs.acs.org/journal/jceda8). American Chemical Society.
-
 - [Chemistry Education Research and Practice](https://www.rsc.org/journals-books-databases/about-journals/chemistry-education-research-practice). Royal Society of Chemistry.
+
+- [Biochemistry and Molecular Biology Education](https://iubmb.onlinelibrary.wiley.com/journal/15393429)
 
 ### A2.b. STEM and Discipline-Based Education Research
 - [Journal of Research in Science Teaching](https://onlinelibrary.wiley.com/journal/10982736). National Association of Research in Science Teaching (NARST).
+
+- [CBE–Life Sciences Education](https://www.lifescied.org/journal/lse)
+- [Interantional Journal of Science Education](https://www.tandfonline.com/journals/tsed20)
+- [International Journal of STEM Education](https://stemeducationjournal.springeropen.com)
+- [Journal of College Science Teaching](https://www.nsta.org/journal-college-science-teaching)
+
+### A2.c. Research Methods
+- [Applied Measurement in Education](https://www.tandfonline.com/journals/hame20)
+
+### A2.d. Assessment
+- [Assessment](https://journals.sagepub.com/home/ASM)
+- [Assessment & Evaluation in Higher Education](https://www.tandfonline.com/journals/caeh20)
+- [Assessment in Education: Principles, Policy, & Practice](https://www.tandfonline.com/journals/caie20)
+
+### A2.e. Higher Education Teaching
+- [College Teaching](https://www.tandfonline.com/journals/vcol20)
 
 ## A3. [Acronyms](/resources/acronyms/acronyms.qmd)
 Click [here](/resources/acronyms/acronyms.qmd) for a list of common acronyms used in discipline-based education research (DBER).
 
 ## A4. Conferences
+- [Biennial Conference on Chemical Education](http://divched.org/about-divched/committees-boards/biennial-conference-committee)
+  - 2024 - [University of Kentucky](http://bcce.divched.org)
+  - 2026 - University of Wisconsin-Madison
+- [Gordon Research Conference - Chemistry Education Research and Practice](https://www.grc.org/chemistry-education-research-and-practice-conference/default.aspx)
+- [Gordon Research Seminar - Chemistry Education Research and Practice](https://www.grc.org/chemistry-education-research-and-practice-grs-conference/default.aspx)
+- National and Regional Meetings of the [American Chemical Society](https://www.acs.org)
 
 ## A5. Graduate Programs
+See list of [Chemical Education Graduate Programs](https://sites.google.com/miamioh.edu/bretzsl/cer-resources/cer-graduate-programs?authuser=0) in the United States as maintained by Professor Stacey Lowery Bretz of Miami University.
 
 ## A6. Professional Organizations
-
 - [American Chemical Society](https://teachchemistry.org)
 - [American Association of Chemistry Teachers](https://teachchemistry.org)
 - [National Association of Research in Science Teaching](https://narst.org)

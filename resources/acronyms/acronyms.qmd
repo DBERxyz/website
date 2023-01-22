@@ -13,6 +13,7 @@ format:
 ### B
 ### C
 - CER - chemical education research
+- CFA - confirmatory factor analysis
 
 ### D
 - DBER - discipline-based education research
