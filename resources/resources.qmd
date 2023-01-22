@@ -11,22 +11,29 @@ format:
 
 ## A1. Books
 
+::: {.callout appearance="minimal" collapse=true}
 ### A1.a. Chemical Education Research Methods
 - Bunce, D. M., & Cole, R. S. (Eds.). (2008). [Nuts and Bolts of Chemical Education Research](https://doi.org/10.1021/bk-2008-0976). American Chemical Society.
 
 - Bunce, D. M., & Cole, R. C. (Eds.). (2014). [Tools of Chemistry Education Research](https://doi.org/10.1021/bk-2014-1166). American Chemical Society.
+:::
 
+::: {.callout appearance="minimal" collapse=true}
 ### A1.b. Organic Chemistry Education
 - Graulich, N., & Shultz, G. (Eds.). (2023). [Student reasoning in organic chemistry: Research advances and evidence-based instructional practices](https://pubs.rsc.org/en/content/ebook/978-1-83916-491-0). Royal Society of Chemistry.
+:::
 
 ## A2. Journals
 
+::: {.callout appearance="minimal" collapse=true}
 ### A2.a. Chemical Education and Chemical Education Research
 - [Journal of Chemical Education](https://pubs.acs.org/journal/jceda8). American Chemical Society.
 - [Chemistry Education Research and Practice](https://www.rsc.org/journals-books-databases/about-journals/chemistry-education-research-practice). Royal Society of Chemistry.
 
 - [Biochemistry and Molecular Biology Education](https://iubmb.onlinelibrary.wiley.com/journal/15393429)
+:::
 
+::: {.callout appearance="minimal" collapse=true}
 ### A2.b. STEM and Discipline-Based Education Research
 - [Journal of Research in Science Teaching](https://onlinelibrary.wiley.com/journal/10982736). National Association of Research in Science Teaching (NARST).
 
@@ -34,17 +41,24 @@ format:
 - [Interantional Journal of Science Education](https://www.tandfonline.com/journals/tsed20)
 - [International Journal of STEM Education](https://stemeducationjournal.springeropen.com)
 - [Journal of College Science Teaching](https://www.nsta.org/journal-college-science-teaching)
+:::
 
+::: {.callout appearance="minimal" collapse=true}
 ### A2.c. Research Methods
 - [Applied Measurement in Education](https://www.tandfonline.com/journals/hame20)
+:::
 
+::: {.callout appearance="minimal" collapse=true}
 ### A2.d. Assessment
 - [Assessment](https://journals.sagepub.com/home/ASM)
 - [Assessment & Evaluation in Higher Education](https://www.tandfonline.com/journals/caeh20)
 - [Assessment in Education: Principles, Policy, & Practice](https://www.tandfonline.com/journals/caie20)
+:::
 
+::: {.callout appearance="minimal" collapse=true}
 ### A2.e. Higher Education Teaching
 - [College Teaching](https://www.tandfonline.com/journals/vcol20)
+:::
 
 ## A3. [Acronyms](/resources/acronyms/acronyms.qmd)
 Click [here](/resources/acronyms/acronyms.qmd) for a list of common acronyms used in discipline-based education research (DBER).
