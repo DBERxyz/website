@@ -7,6 +7,7 @@ website:
   site-url: https://www.dber.xyz
   description: "DBER.xyz"
   google-analytics: "G-Z57DFEG380"
+  cookie-consent: true
   navbar:
     background: "#000000"
     pinned: TRUE
