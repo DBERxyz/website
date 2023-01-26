@@ -6,6 +6,7 @@ website:
   title: "DBER.xyz"
   site-url: https://www.dber.xyz
   description: "DBER.xyz"
+  google-analytics: "G-Z57DFEG380"
   navbar:
     background: "#000000"
     pinned: TRUE
@@ -18,7 +19,8 @@ website:
   body-footer: |
     </br></br>
     <center>Copyright 2023, Jeffrey R. Raker.</center> </br>
-    <center>Content is available under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license unless otherwise noted.</center>
+    <center>Content is available under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license unless otherwise noted.</center> </br>
+    <center>[Terms of Use - Privacy Policy - Copyright Infringement - Disclaimers](terms.qmd)</center>
 
 format:
   html:
