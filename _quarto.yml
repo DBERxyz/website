@@ -8,7 +8,7 @@ website:
   description: "DBER.xyz"
   google-analytics: "G-Z57DFEG380"
   cookie-consent: true
-  favicon: "/assets/logo_150_x_150.png"
+  favicon: /assets/logo_150_x_150.png
   navbar:
     background: "#000000"
     pinned: TRUE
