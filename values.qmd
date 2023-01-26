@@ -1,0 +1,21 @@
+---
+title: ""
+engine: knitr
+format: 
+  html: 
+    toc: true
+    toc-depth: 3
+---
+
+![](/assets/logo_650_x_650.png){width=200 fig-align="center"}
+
+Development of [DBER.xyz](www.DBER.xyz) is guided by a set of values and principles:
+
+### Open Access
+Content published on [DBER.xyz](www.DBER.xyz) is freely available without cost under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+### Transparency
+
+### Inclusion
+
+### Stewardship

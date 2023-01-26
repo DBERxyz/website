@@ -4,93 +4,36 @@ engine: knitr
 format: 
   html: 
     toc: true
-    toc-depth: 6
+    toc-depth: 3
 ---
 
 ![](/assets/logo_650_x_650.png){width=200 fig-align="center"}
 
 This is a knowledge management project by [Jeff Raker](https://www.jeffraker.xyz).
 
-The goal is to curate resources, information, experiences for moving from as educator to an educational researcher. Whether new to education research, a seasoned researcher, or research trainee mentor, the content of [DBER.xyz](https://www.dber.xyz) includes something for you.
+The goal is to curate resources, information, experiences for an individual to move from educator to education researcher. Whether new to education research, a seasoned researcher, or research trainee mentor, the content of [DBER.xyz](https://www.dber.xyz) includes something for you.
+
+Content is provided for informational and educational purposes. Collaboration with an educational research expert, participation in formal education research studies and communities of practice, and similar experiences are ideal to developing the knowledge and skills of a education researcher.
 
 While the URL may suggest a broad focus (i.e., all discipline-based education research), at the moment, the website is developed by a chemical education scholar and thus is primarily focused on chemical education scholarship.
 
-## Map of Content
+## A. [Resources](/resources/resources.qmd)
 
-### A. [Resources](/resources/resources.qmd)
+#### [Books](/resources/resources.qmd#a1.-books) - [Journals](/resources/resources.qmd#a2.-journals) - [Acronyms](/resources/resources.qmd#a3.-acronyms) - [Conferences](/resources/resources.qmd#a4.-conferences) - [Graduate Programs](/resources/resources.qmd#a5.-graduate-programs) - [Professional Organizations](/resources/resources.qmd#a6.-professional-organizations)
 
-#### A1. [Books](/resources/resources.qmd#a1.-books)
+## B. Teaching and Learning
 
-#### A2. [Journals](/resources/resources.qmd#a2.-journals)
+##### Curriculum (Lecture, Laboratory) - Assessment - Pedagogy
 
-#### A3. [Acronyms](/resources/resources.qmd#a3.-acronyms)
+## C. Careers
 
-#### A4. [Conferences](/resources/resources.qmd#a4.-conferences)
+#### Academia (Teaching, Research, Administration) - Teaching and Learning Centers - Evaluation and Assessment - Consulting
 
-#### A5. [Graduate Programs](/resources/resources.qmd#a5.-graduate-programs)
+## D. Scholarly Activities
 
-#### A6. [Professional Organizations](/resources/resources.qmd#a6.-professional-organizations)
+#### Institutional Review Boards - Data Collection - Data Analysis - Reference Management - Research Proposals (Dissertation, Grant)
 
-</br>
+## E. Professional Practice
 
-### B. Teaching and Learning
+#### Knowledge Management - Writing - Content Creation - Notebook or Journal or Diary
 
-#### B1. Curriculum
-
-##### B1.a. Lecture
-
-##### B1.b. Laboratory
-
-#### B2. Assessment
-
-#### B3. Pedagogy
-
-</br>
-
-### C. Careers
-
-#### C1. Academia
-
-##### C1.a. Faculty - Teaching
-
-##### C1.b. Faculty - Research
-
-##### C1.c. Faculty - Administration
-
-#### C2. Teaching and Learning Centers
-
-#### C3. Evaluation and Assessment
-
-#### C4. Consulting
-
-</br>
-
-### D. Scholarly Activities
-
-#### D1. Institutional Review Boards
-
-#### D2. Data Collection
-
-#### D3. Data Analysis
-
-#### D4. Reference Management
-
-#### D5. Research Proposals
-
-##### D5.a. Dissertation
-
-##### D5.b. Grant
-
-</br>
-
-### E. Professional Practice
-
-#### E1. Knowledge Management
-
-#### E2. Writing
-
-#### E3. Creation
-
-#### E4. Notebook or Journal or Diary
-
-</br>

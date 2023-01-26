@@ -1,0 +1,46 @@
+---
+title: "Terms of Use"
+engine: knitr
+format: 
+  html: 
+    toc: true
+    toc-depth: 6
+---
+
+## Use of [DBER.xyz](www.DBER.xyz)
+
+Your use of [DBER.xyz](www.DBER.xyz), its materials, information, and services is subject to the terms of a legal agreement between you and DBER.xyz.
+
+You agree to use [DBER.xyz](www.DBER.xyz), its materials, information, and services only for purposes that are permitted by these Terms of Use.
+
+You may use the materials, information, and services for legal purposes only. In connection with the use of [DBER.xyz](www.DBER.xyz), you are required to abide by all appliable international, federal, state, and local laws, including those pertaining to such areas as libel, slander, defamation, trade libel, product disparagement, harassment, invasion of privacy, tort, obsenity, indecency, and copyright or trademark infringement. 
+
+You agree that you will not engage in any activity that interferes with or disrupts any aspect of this website including, but not limited to, the material, information, and services.
+
+This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold, or otherwise exploited as allowed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license unless otherwise noted.
+
+The [DBER.xyz](www.DBER.xyz) logo may be used without written permission for the purpose of providing a link to [www.DBER.xyz](www.DBER.xyz) and its assocaited web pages. It may also be used on materials obtained from [DBER.xyz](www.DBER.xyz) as a means of giving credit to the source of the materials. Other uses of the [DBER.xyz](www.DBER.xyz) logo shall only be with the prior written permission from the [DBER.xyz](www.DBER.xyz) authorship team. The [DBER.xyz](www.DBER.xyz) authorship team may withhold approval at its sole discretion and reservces the right to terminate or modify permission to display the [DBER.xyz](www.DBER.xyz) logo at any time.
+
+## Violations of Acceptable Use
+
+Violations of acceptable use include, but are not limited to:
+
+- Using materials found on [DBER.xyz](www.DBER.xyz) in a way that is inconsistent with those allowed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license or otherwise specified for a given [DBER.xyz](www.DBER.xyz) page or piece of content.
+- Selling materials found on [DBER.xyz](www.DBER.xyz) in a way that is inconsistent with those allowed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license or otherwise specified for a given [DBER.xyz](www.DBER.xyz) page or piece of content.
+- Publishing materials found on [DBER.xyz](www.DBER.xyz) in a way that is inconsistent with those allowed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license or otherwise specified for a given [DBER.xyz](www.DBER.xyz) page or piece of content.
+
+## Copyright Infringement
+
+If you beleive that your work has been used or copied in a way on [DBER.xyz](www.DBER.xyz) that constitutes copyright infringement, please notify the [DBER.xyz](www.DBER.xyz) authorship team and its agents in writing as required by the [Digital Millennium Copyright Act](https://www.copyright.gov/dmca/). For the [DBER.xyz](www.DBER.xyz) authorship team and its agents to act on your notice,  you must be authorized to enforce the copyrights that you allege have been infringed. When informing [DBER.xyz](www.DBER.xyz) of an alleged infringement:
+- Indentify the copyrighted work that allegedly has been infringed. If multiple copyrighted works at a single online stie are involved, please provide a representation list of such works on the site.
+- Describe the material that is claimed to be infringing and provide sufficient information to permit the [DBER.xyz](www.DBER.xyz) authorship team or their agents to locate the material.
+- Provide your contact information including an email address, telephone number, and mailing address.
+- Certify or include a statement that you have a good faith belief that the use of the copyright-protected mateiral in the manner complained of is not authorized by the the copyright owner, the owner's agent, or law.
+- Certify that the information that you have provided the [DBER.xyz](www.DBER.xyz) authorship team is accurate. Attest under penalty of perjufry that you are authorized to enforce the copyrights that you allege have been infringed.
+- Include your physical or electronic signature.
+
+## Privacy Policy
+When you access and use [DBER.xyz](www.DBER.xyz), information may be collected indirectly and automatically (through, for example, the use of IP addresses) about your activities while visiting and interacting with the site, including the pages you view, the number of times you view them, the length of your visit, files downloaded, and information about the browser you are using. An IP address is a number that is automatically assigned to your computer when you use the Internet. In some cases, your IP address stats the same from browser session to browser session; but, if you use a consumer internet access provider, your IP address likely varies from session to session. [DBER.xyz](www.DBER.xyz) does not link browsing information to Personal Information you may submit to [DBER.xyz](www.DBER.xyz) or its agents; browsing information is for internal purposes such as understanding how the site it used and how to improve the site, and for system administration. 
+
+## Disclaimers
+[DBER.xyz](www.DBER.xyz) is provided on an "as is" and "as available" basis for general information and educational purposes only; content should not be taken as professional advice. [DBER.xyz](www.DBER.xyz) makes no representations or warranties of any kind, expressed or implied, as to th eoperation of the site or the information, content, materials, or products on [DBER.xyz](www.DBER.xyz). To the full extent permissable by applicable law, [DBER.xyz](www.DBER.xyz) disclaims all warranties, expressed or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose. [DBER.xyz](www.DBER.xyz) or its agents are not liable for damages of any kind arising from the use of this site, including but not limited to direct, indirect, incidental, punitive, or consequential damages. You understand that by using [DBER.xyz](www.DBER.xyz) you may be exposed to content that you may find offensive or objectionable and that, in this respect, you use [DBER.xyz](www.DBER.xyz) at your own risk. If you feel you might be offended by the content of [DBER.xyz](www.DBER.xyz), you should not continue.

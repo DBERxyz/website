@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.dber.xyz/index.html</loc>
-    <lastmod>2023-01-22T18:54:35.115Z</lastmod>
+    <lastmod>2023-01-26T23:13:40.578Z</lastmod>
   </url>
   <url>
     <loc>https://www.dber.xyz/resources/resources.html</loc>
-    <lastmod>2023-01-22T18:55:25.670Z</lastmod>
+    <lastmod>2023-01-26T22:54:05.450Z</lastmod>
   </url>
   <url>
     <loc>https://www.dber.xyz/resources/acronyms/acronyms.html</loc>
     <lastmod>2023-01-22T18:55:28.587Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dber.xyz/terms.html</loc>
+    <lastmod>2023-01-26T23:09:01.132Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dber.xyz/authors.html</loc>
+    <lastmod>2023-01-26T23:08:39.603Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dber.xyz/values.html</loc>
+    <lastmod>2023-01-26T22:56:01.824Z</lastmod>
   </url>
 </urlset>

@@ -4,12 +4,14 @@ engine: knitr
 format:
   html: 
     toc: true
-    toc-depth: 10
+    toc-depth: 2
 ---
 
 [Home](../index.qmd) > [Resources](/resources/resources.qmd)
 
 ## A1. Books
+
+Example text
 
 ::: {.callout appearance="minimal" collapse=true}
 ### A1.a. Chemical Education Research Methods

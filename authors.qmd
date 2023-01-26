@@ -1,0 +1,23 @@
+---
+title: "Author Team"
+engine: knitr
+format: 
+  html: 
+    toc: false
+---
+
+## Lead Author - Jeffrey R. Raker, Ph.D.
+
+:::{.grid}
+
+:::{.g-col-9}
+Dr. Raker is a faculty member at the University of South Florida with expertise in chemical education, discipline-based education research. 
+
+They have authored and collaborated on 65+ peer-reviewed publications ([Google Scholar](https://scholar.google.com/citations?user=dG8wwxsAAAAJ&hl=en)).
+:::
+
+::: {.g-col-3}
+![](/assets/jeff_profile.jpeg){width=200 fig-align="right" fig-alt="Profile picture of Dr. Raker"}
+:::
+
+:::
