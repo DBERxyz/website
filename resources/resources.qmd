@@ -11,8 +11,6 @@ format:
 
 ## A1. Books
 
-Example text
-
 ::: {.callout appearance="minimal" collapse=true}
 ### A1.a. Chemical Education Research Methods
 - Bunce, D. M., & Cole, R. S. (Eds.). (2008). [Nuts and Bolts of Chemical Education Research](https://doi.org/10.1021/bk-2008-0976). American Chemical Society.
